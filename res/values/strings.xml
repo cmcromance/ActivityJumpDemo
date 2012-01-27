@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ActivityJumpDemoActivity!</string>
+    <string name="app_name">ActivityJumpDemo</string>
+    <string name="go_to_main">Go to MAIN</string>
+    <string name="activity_a">Activity-A</string>
+    <string name="activity_b">Activity-B</string>
+    <string name="activity_c">Activity-C</string>
+    <string name="next_page">NEXT PAGE ></string>
+    <string name="main_main_main">MAIN MAIN MAIN !!</string>
+
+</resources>
